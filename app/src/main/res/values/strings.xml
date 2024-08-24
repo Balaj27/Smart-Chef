@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Chef</string>
+    <string name="api_key">AIzaSyArMqpUUW8LrcEqbdNU282S7QpssCxqUlA</string>
+    <string name="select_image">Select an Image</string>
+    <string name="logout">Logout</string>
+    <string name="menu">Menu</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="user_image">User Image</string>
+    <string name="placeholder_email">user@example.com</string>
+</resources>

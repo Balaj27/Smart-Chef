@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70367255487",
+    "project_id": "smart-chef-2bead",
+    "storage_bucket": "smart-chef-2bead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70367255487:android:14caf589700edc5c30df0a",
+        "android_client_info": {
+          "package_name": "com.gemini.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70367255487-puo16tssvldimdl3l7sg66985tmefvic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuanClq0p-69Zo4g3Rm2Gi65mTqezgluc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70367255487-puo16tssvldimdl3l7sg66985tmefvic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
